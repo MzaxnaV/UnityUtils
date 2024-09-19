@@ -1,0 +1,17 @@
+{
+    "name": "com.mzaxnav.utils",
+    "version": "0.1.0",
+    "displayName": "Utils Package",
+    "description": "common C# utility scripts for Unity projects.",
+    "unity": "2020.3",
+    "author": {
+      "name": "Manav",
+      "email": "manav.zxa@gmail.com",
+      "url": "https://github.com/mzaxnav"
+    },
+    "dependencies": {},
+    "keywords": [
+      "utility",
+      "scripts"
+    ]
+  }
